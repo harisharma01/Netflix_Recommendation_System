@@ -41,14 +41,18 @@ The utility matrix is also useful for evaluating the performance of recommendati
 
 ## Data Description
 
-Rating Dataset:
+*  Rating Dataset:
 
-User_ID – Contains the separate keys for customer.
+User_ID  – Contains the separate keys for customer.
+
 Rating – A section contains the user ratings for all the movies.
+
 Movie_ID – Id given to each movie.
 
-Movies Dataset:
+*  Movies Dataset:
 
 Movie_ID – Contains the separate keys for each movie.
+
 Year – Year in which movie was released.
+
 Name – Name of the movie corresponding to the movie_ID
